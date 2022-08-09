@@ -1,2 +1,2 @@
 First line in file1
-this line was added in branch 2
+
